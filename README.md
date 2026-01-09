@@ -1,5 +1,10 @@
 # Automated Sticker Placement (Computer Vision)
 
+![annotated_Image_30_light](https://github.com/user-attachments/assets/2ae18836-97b5-46b4-a756-7ed467008cb0)
+
+![annotated_Image-raw](https://github.com/user-attachments/assets/24157029-45e1-4c50-bfdb-1562ddb15c45)
+
+
 ## 🎯 Goal
 
 Given an image of a shoebox:
